@@ -1,0 +1,35 @@
+#contenedor {
+    background-color: #bdb7b7;
+}
+
+#cabecera {
+    background-color: #a6e1e1;
+    height: 20%;
+}
+
+#menu {
+    height: 10%;
+    background-color: #e0e0e0;
+}
+
+#izquierda 
+{
+    height: 55%;
+    background-color: #829aac;
+    float: left;
+    width: 55%;
+}
+
+#derecha 
+{
+    height: 55%;
+    background-color: #235d0a;
+    float: right;
+    width: 45%;
+}
+
+#pie {
+    height: 15%;
+    background-color: #ffc010;
+    clear: both;
+}
