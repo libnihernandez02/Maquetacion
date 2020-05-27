@@ -1,10 +1,12 @@
-#contenedor {
-    background-color: #bdb7b7;
+#contenedor 
+{
+    background-color: #ffffff;
 }
 
-#cabecera {
-    background-color: #a6e1e1;
+#cabecera 
+{
     height: 20%;
+    background-color: #a6e1e1;
 }
 
 #menu {
@@ -28,7 +30,8 @@
     width: 45%;
 }
 
-#pie {
+#pie 
+{
     height: 15%;
     background-color: #ffc010;
     clear: both;
